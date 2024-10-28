@@ -17,7 +17,7 @@
 
 <dl>
     <dt align="left"><strong>Name:</strong></dt>
-    <dd align="left">Iron Man</dd>
+    <dd align="left">OKTA</dd>
     <dt align="left">Loves:</dt>
     <dd align="left">Anime, Manga, Games</dd>
     <dt align="left">Hobbies:</dt>
@@ -35,9 +35,9 @@
 </div>
 <p align='center'>
   <a href="https://ironmanff.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
-  <a href="https://instagram.com/sedboy.am"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
-  <a href="https://t.me/IronManOfc"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
-    <a href="https://wa.me/4915252819677"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
+  <a href="https://instagram.com/putrii.oktavia22"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/HazelMD_Bot"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+    <a href="https://wa.me/62895704952222"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
 </p>
 <br>
 
@@ -55,8 +55,8 @@
 <div align="center">
     <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
 </div>
-<img src="https://count.getloli.com/get/@:IRON-M4N?theme=moebooru" alt="IRON-M4N" />
+<img src="https://count.getloli.com/get/@:IRON-M4N?theme=moebooru" alt="OKTA-PX" />
 
 _______________________
 
-![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
+![Animation](https://raw.githubusercontent.com/IRON_MAN/IRON_MAN/output/github-contribution-grid-snake-dark.svg)
