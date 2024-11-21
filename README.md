@@ -18,7 +18,7 @@
 
 <dl>
     <dt align="left"><strong>Name:</strong></dt>
-    <dd align="left"><b>OKTA</b></dd>
+    <dd align="left"><b>BAGUS OKTA</b></dd>
     <dt align="left"><strong>Loves:</strong></dt>
     <dd align="left"><b>Anime, Manga, Games</b></dd>
     <dt align="left"><strong>Hobbies:</strong></dt>
